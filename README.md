@@ -27,7 +27,7 @@ Then fill in the angle brackets and give your agent this prompt:
 Read AGENTS.md, then edit index.html. Make this the site for <my electric vehicle brand: models with range, seats and prices, paint names, battery and charging facts, plan terms, warranty, service price, showroom address, hours and phone, how to book a test ride>. Replace first the brand, models, paints, plans and reviews. Keep the section ids, the classes AGENTS.md lists and three models in the picker, and set each --len to its word's character count. Ask me for missing facts, never invent ranges, prices, finance terms, warranties, reviews or contacts.
 ```
 
-With Claude Code, Cursor or Codex, hand the agent the facts only the maker has: model names, ranges, speed, prices, paint names, plan terms, warranty, service price, showroom address and hours. The demo invents all of them, along with the six rider reviews. Replace those first, then the 29 photos. Keep the ids and the classes AGENTS.md lists. The licence and age rules in the city section are British demo content, so the owner supplies local ones.
+If you [vibe code the site](https://8b.com/templates/vibe-coding/), this electric scooter website template for Claude Code goes well when you hand the agent the facts only the maker has: model names, ranges, speed, prices, paint names, plan terms, warranty, service price, showroom address and hours. The demo invents all of them and the six rider reviews. Replace those first, then the 29 photos. Keep the ids and the classes AGENTS.md lists. The licence and age rules in the city section are British demo content, so the owner supplies local ones.
 
 No agent? Click **[Use this template](https://github.com/new?template_name=electric-scooter-website-template&template_owner=8bsite)**, edit `index.html` on GitHub and turn on **Settings > Pages**.
 
@@ -71,7 +71,7 @@ No. It checks that a name and a valid email are present, then shows a thank-you 
 On a phone the section links, phone and Order buttons hide and the menu button lists every section; most layouts become one column. With reduced motion on, smooth scrolling, pinning and scroll animations stop, the paint fields stack and the model frame shows only the first model's photo. The bar still hides on scroll. Without JavaScript the menu cannot open.
 
 **Can I get a site like this without editing code?**  
-Not with this file; it needs an AI coding agent or a developer. [8B's AI website builder](https://8b.com/templates/8b/) designs a new site from a sentence you write, in its own design rather than this template. Designing and restyling are free; publishing with hosting is on Pro at $9 a month billed yearly. It also runs inside Claude and ChatGPT.
+Not with this file; it needs an AI coding agent or a developer. [8B's AI website builder](https://8b.com/) designs a new site from a sentence you write, in its own design rather than this template. Designing and restyling are free; publishing with hosting is on Pro at $9 a month billed yearly. It also runs inside Claude and ChatGPT.
 
 ## Is it the right base?
 
